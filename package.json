@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ebicu/hi-test-api#readme",
   "dependencies": {
+    "ejs": ">=2.5.5",
     "deployd-cli": "^2.0.2"
   }
 }
