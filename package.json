@@ -1,0 +1,22 @@
+{
+  "name": "hi-test-api",
+  "version": "0.0.1",
+  "description": "API para o teste da Hi-Technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebicu/hi-test-api.git"
+  },
+  "author": "João Miranda",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ebicu/hi-test-api/issues"
+  },
+  "homepage": "https://github.com/ebicu/hi-test-api#readme",
+  "dependencies": {
+    "deployd-cli": "^2.0.2"
+  }
+}
